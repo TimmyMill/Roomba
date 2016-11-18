@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+.idea/Roomba.iml
+.idea/dictionaries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+Roomba.py
+SharkCat.py
